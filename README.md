@@ -6,7 +6,5 @@ I'm a CPA turned software engineer with a passion for developing full-stack appl
 - 🤔 I’m looking for help with finding a dev job!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/xi-ling-cpa/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingxiGitHub)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
